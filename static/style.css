@@ -1,0 +1,21 @@
+* {
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    font-family: "JetBrains Mono", serif;
+    font-size: 50px;
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
+    background-color: #fff;
+}
+table, tr, td {
+    border: 1px solid #000;
+}
+td.hash {
+    height: auto;
+    font-size: 13px;
+}
